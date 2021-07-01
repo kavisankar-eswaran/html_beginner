@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ordered list</title>
+</head>
+<body>
+    <h1>hi, welcome to html5</h1>
+    <p>Image tag</p>
+    <img src="https://images.unsplash.com/photo-1573925662400-8c3142d16905?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80" alt="Architecture" height="auto" width="250">
+
+    <p>alt use reason</p> 
+    <img src="https://images.unsplash.com/photo-157392566sadfsvd8c3142d16905?ixid=MnwxMjB8MHxwaG90by1wYWdlfHx8fGVufixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80" alt="Architecture" height="auto" width="250">
+</body>
+</html>
