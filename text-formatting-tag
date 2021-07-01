@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Text Tag</title>
+</head>
+<body>
+    <div>
+        <h1>Hi, Welcome to html 5</h1>
+        <p>this is a <b>BOLD</b> tag</p>
+        <p>this is a <strong>Strong</strong> tag</p>
+        <p>this is a <i>italic</i>  tag</p>
+        <p>this is a <em>Emphasize</em> tag</p>
+        <p>this is a <sup>data</sup> tag</p>
+        <p>this is a <ins>Underline</ins> tag</p>
+        <p>this is a <del>deleted</del> tag</p>
+        <p>this is a <mark>Highlight</mark> tag</p>
+</div>
+</body>
+</html>
