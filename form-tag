@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form tag</title>
+</head>
+<body>
+    <div>
+    <h1>hi, welcome to html5</h1>
+    <p>Form tag</p>
+</div>  
+ <div>
+    <form action="#" method="GET">
+        <input type="text" name="Name" placeholder="Your Name" required><br>
+        <input type="email" name="email" placeholder="Your Mail" required><br>
+        <input type="text" name="Subject" placeholder="Subject"><br>
+        <textarea name="Message" placeholder="your message" required></textarea><br>
+        <input type="button" value="Submit">
+    </form>
+</div> 
+</body>
+</html>
